@@ -9,9 +9,9 @@ A simple word guess command line game for Week 11 of UofT's Coding Bootcamp.
 **Specifications**
 * Use node and inquirer/prompt packages to build a dynamic word guess came for command line
 * Use at minimum three files
-* * The first file, letter.js, should contain a constructor function
-* * The second file, word.js, should require letter.js and contain a constructor function that populates an array of objects created through the letter.js constructor
-* * The third file, index.js, should require word.js and contain the game logic
+  * The first file, letter.js, should contain a constructor function
+  * The second file, word.js, should require letter.js and contain a constructor function that populates an array of objects created through the letter.js constructor
+  * The third file, index.js, should require word.js and contain the game logic
 * Functions where possible should be embedded into the constructors as properties of the objects they'll create
 
 **Features**

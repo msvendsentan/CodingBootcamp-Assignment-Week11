@@ -1,0 +1,22 @@
+{
+  "name": "codingbootcamp-assignment-week11",
+  "version": "1.0.0",
+  "description": "A simple word guess command line game for Week 11 of UofT's Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msvendsentan/CodingBootcamp-Assignment-Week11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msvendsentan/CodingBootcamp-Assignment-Week11/issues"
+  },
+  "homepage": "https://github.com/msvendsentan/CodingBootcamp-Assignment-Week11#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0"
+  }
+}
